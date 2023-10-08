@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="fr" >
+<head>
+	<title>
+	Wonderbox</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no" />
+	<meta name="author" content="">
+
+	<meta name="keywords">
+<meta name="description">
+<meta name="robots" content="noindex,nofollow">
+<script type="text/javascript" src="/ruxitagentjs_ICA2NVfhqrux_10275230919171419.js" data-dtconfig="app=46f3d269a69dd275|featureHash=ICA2NVfhqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=rygx2v7t|mel=100000|dpvc=1|md=mdcc1=a#main-container ^rb div.checkout-cart-index.checkout-area.secure ^rb div ^rb div.shopping-checkout-table.Checkout-content.paiement-step ^rb div.checkout-summary ^rb div.panel-checkout ^rb div ^rb div ^rb div ^rb div.expand__content ^rb div.grandtotal.summary-block__content ^rb p.price.bold ^rb span,mdcc2=a#guest^bs.email|ssv=4|lastModification=1696629527340|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA2NVfhqrux_10275230919171419.js|reportUrl=/rb_bf21720kne|rid=RID_1314444507|rpid=-336185348|domain=wonderbox.fr"></script><script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['InstanaEumObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})
+    (window,document,'script','//eum.instana.io/eum.min.js','ineum');
+
+    ineum('reportingUrl', 'https://eum-eu-west-1.instana.io');
+    ineum('apiKey', 'KNiah2dfTTqx1XaCn3D_HA');
+</script>
+<link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/responsive/themes/wonderbox/images/global/favicon/favicon.ico" />
+        <link rel="apple-touch-icon" href="/_ui/responsive/themes/wonderbox/images/global/appleicons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/_ui/responsive/themes/wonderbox/images/global/appleicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/_ui/responsive/themes/wonderbox/images/global/appleicons/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/_ui/responsive/themes/wonderbox/images/global/appleicons/apple-touch-icon-76x76.png" />
+
+	<link rel="stylesheet" type="text/css" media="all" href="/_ui/responsive/themes/master/css/style.css?v=7.4.0"/>
+		<link rel="stylesheet" type="text/css" media="all" href="/_ui/responsive/themes/wonderbox/css/style.css?v=7.4.0"/>
+		<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/recaptchaaddon/responsive/common/css/recaptchaaddon.css"/>
+		<script async type="text/javascript" src="/_ui/shared/js/analyticsmediator.js?v=7.4.0"></script>
+<script type="text/javascript">
+
+        var user = {
+        'id': '4bc92a11-4ee0-4d80-aa2f-3ad4bba99675',
+        'email': 'dlenoir75@gmail.com',
+        'emailCry':'dce038a0dd3c709051e34e32ce50e312',
+        'gender' : 'mr',
+        'identificationTool' : 'INTERNAL',
+        
+        'new_account': 0,
+        'account_type':'BENEFICIARY',
+        'isUserInternal' : false,
+        'type': 'customer',
+        'logged' : true
+        };
+    </script>
+<!-- Google Tag Manager : Init -->
+	<script>if(typeof dataLayer !== "object"){dataLayer=[];}
+	cmsPageUid = "checkout-number-validation";
+
+	
+
+    var wbx_analytics_deferred_functions = wbx_analytics_deferred_functions || [];
+
+    
+
+    var wbx_gtm_pageview = {
+		event: "pageview",
+		env:{
+			work: "prod",
+			language: "fr",
+			currency:"EUR",
+			responsive:"desktop"
+		},
+		page: {},
+		dimension4: document.location.pathname,
+		dimension1: "",
+	};
+
+    if (user && typeof user.logged !== 'undefined' && user.logged) {
+        wbx_gtm_pageview.dimension23 =  user.id || '';
+        wbx_gtm_pageview.dimension24 =  user.emailCry || '';
+        wbx_gtm_pageview.dimension26 =  user.optin || '';
+        wbx_gtm_pageview.dimension8 =  user.type || '';
+        wbx_gtm_pageview.dimension25 =  user.identificationTool || '';
+        wbx_gtm_pageview.dimension20 =  user.new_account || '';
+        wbx_gtm_pageview.dimension27 =  user.account_type || '';
+        wbx_gtm_pageview.dimension9 =  'identified';
+        wbx_gtm_pageview.isUserInternal =  user.isUserInternal || '';
+    } else {
+		wbx_gtm_pageview.dimension9 =  'unidentified';
+        wbx_gtm_pageview.isUserInternal =  user.isUserInternal || false;
+    }
+
+	
+
+	dataLayer.push(wbx_gtm_pageview);
+
+	if(typeof wbx_gtm_productDetail !== "undefined") {
+		dataLayer.push(wbx_gtm_productDetail);
+	}
+
+	if(typeof wbx_gtm_checkout !== "undefined") {
+		dataLayer.push(wbx_gtm_checkout);
+	}
+
+	if(typeof wbx_gtm_purchase !== "undefined") {
+		dataLayer.push(wbx_gtm_purchase);
+	}
+
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl+'';
+		f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WNQLVBZ');
+	<!-- Google Tag Manager : Run -->
+
+	</script>
+<!-- End Google Tag Manager -->
+	<script type="application/ld+json">
+[
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Wonderbox",
+    "keywords": "",
+    "about": "",
+    "publisher": {
+	    "@type": "WebSite",
+            "name": "Wonderbox"
+    }
+
+}
+]</script>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+</head>
+
+<body class="page-checkout-number-validation pageType-ContentPage template-pages-MultiStepCheckoutSummaryPageTemplate catalog-version--wonderboxGlobalContentCatalog/Online pageLabel-checkout-number-validation page-multiStepCheckoutSummaryPage smartedit-page-uid-checkout-number-validation smartedit-page-uuid-eyJpdGVtSWQiOiJjaGVja291dC1udW1iZXItdmFsaWRhdGlvbiIsImNhdGFsb2dJZCI6IndvbmRlcmJveEdsb2JhbENvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ== smartedit-catalog-version-uuid-wonderboxGlobalContentCatalog/Online  language-fr ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNQLVBZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="modal-content"  ></div>
+	<div class="loader-reference" role="presentation">
+		<svg viewbox="0 0 200 200">
+			<defs>
+				<g id="svg-loader" class="svg-loader-object">
+					<circle class="track" cx="100" cy="100" r="85" stroke="var(--color-background)" stroke-width="30" fill="none" />
+					<circle class="inner" cx="100" cy="100" r="85" stroke="var(--color-loader)" stroke-width="16" fill="none" />
+				</g>
+			</defs>
+		</svg>
+	</div>
+	<div id="ajax-load-wrapper" class="ajax-loader ajax-loader-svg"><div class='ajax-svg'><svg viewBox="0 0 200 200" class="svg-loader-anim"><use href="#svg-loader"></use></svg></div></div>
+
+	<main data-currency-iso-code="EUR">
+            
+
+
+
+
+
+<!-- this attribute may take a list in future -->
+
+
+
+
+
+	<header id="header" class="js-header-sticky">
+		<div class="checkout-header">
+			<div class="yCmsComponent yComponentWrapper">
+<a href="#" class="back icomoon icon-arrow-down" onclick="history.go(-1); return false;">&nbsp;</a></div><div class="yCmsComponent yComponentWrapper">
+<div class="new-header__menu-toggler js-mobile-menu-toggler">
+    <span class="new-header__menu-toggler-bar"></span>
+    <span class="new-header__menu-toggler-bar"></span>
+    <span class="new-header__menu-toggler-text">Menu</span>
+</div>
+<div class="new-header__logo">
+    <a href="/" 
+        class="new-header__logo-link gtm-tracking-link"
+        data-config='{
+            "event"         : "event",
+            "eventCategory" : "header",
+            "eventAction"   : "Logo"
+        }'>
+        <img src="/medias/logo-wbx.svg?context=bWFzdGVyfGltYWdlc3wxNDY3NnxpbWFnZS9zdmcreG1sfGltYWdlcy9oNjQvaGFkLzk0NTc2Nzc1MzMyMTQuc3ZnfDQ4ZTE3Y2I5ODNmZjE3NDJlMzQ0OGI2MTBmZTAzNjcwODg2MjY5Y2IzODcxM2E1NzgxYzA0MGI0ZDQ5OTE0NTY" alt="logo-wbx.svg" class="new-header__logo-img">
+    </a>
+</div>
+</div><div class="yCmsComponent yComponentWrapper">
+<div class="banner__component banner">
+	<img title="" alt=""
+				src="/medias/secured-checkout-wbx.svg?context=bWFzdGVyfGltYWdlc3wyOTQzfGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2hkMi9oYzAvMTAzMjg5NTA4NjU5NTAuc3ZnfGEzNWM2YzRjZmRkM2IzOWZjNjlmM2EwNWQ4NjY3NmNjODU3MmVlMGIzYTk3OWEwY2NhNzY2M2QwNzdhZGE3OGI">
+		</div>
+</div></div>
+
+ </header>
+
+<div class="overlay"></div>
+
+
+<div class="container  " id="main-container">
+
+                <div class="load"> 
+</div><div class="checkout-cart-index checkout-area secure">
+        <div class="Checkout-content">
+            <div class="private-space">Vous êtes dans un espace sécurisé</div>
+            <div id="account-number-validation-container">
+                <div class="profile-page-section-title account-section__item">
+            <h2 class="section-title">Sécurisez votre <span class="bold">commande</span></h2>
+            <p>Renseignez le code envoyé par SMS au +33 6 98 98 71 98 pour valider et sécuriser votre commande.</p>
+        </div>
+        <div class="certification-phone-number">
+            <div class="certification-phone-number__wrapper">
+                <form id="checkoutNumberValidationForm--sms-code" name="checkoutNumberValidationForm" class="wonder-form certification-phone-number__form certification-phone-number__form--js certification-phone-number__form--only-validate" action="/checkout/multi/checkout-number-validation/validate-code" method="POST"><div class="certification-phone-number__refresh-code">
+                        <label class="control-label" for="smscode">Code de certification reçu par SMS</label>
+                        <a class="icomoon icon-switch" href="/checkout/multi/checkout-number-validation/refresh-code?CSRFToken=e3d7a8bc-6e7b-418a-bf58-cdf53ae60749" >Renvoyer le code</a>
+                        </div>
+                    <div class="certification-phone-number__sms-code">
+                        <div class="form-group ">
+				<label class="control-label " for="smscode" data-after-elm="">
+			Code de certification reçu par SMS</label>
+
+		<div class="input-wrapper">
+			<input id="smscode" name="smscode" class="input-text form-control required smscode" autocorrect="off" placeholder="123456" type="number" maxlength='6' minlength='6' data-cs-mask="true" value="" autocomplete="smscode"/></div>
+	</div>
+		</div>
+                    <div class="certification-phone-number__form-submit">
+                        <button type="submit" class="action1 js-validate-smscode-action disabled" data-config='{
+                            "event"         : "event",
+                            "eventCategory" : "checkout",
+                            "eventAction"   : "numberValidation",
+                            "eventLabel"    : "validate-code"
+                            }'>Valider</button>
+                    </div>
+                    <div class="certification-phone-number__try">
+                        0/3 tentatives</div>
+                <div>
+<input type="hidden" name="CSRFToken" value="e3d7a8bc-6e7b-418a-bf58-cdf53ae60749" />
+</div></form></div>
+        </div>
+    </div>
+        </div>
+        <div class="shopping-checkout-table Checkout-content paiement-step">
+            <p class="certification-phone-number__footer">Afin de nous permettre de sécuriser le paiement de votre commande, recopiez dans l’encart le code unique (valable 6 minutes) reçu par SMS.</p><p class="certification-phone-number__footer">Attention, après 3 demandes d’envoi de code non abouties et/ou expirées (aucun code n’est renseigné), votre compte sera bloqué.</p><div class="recap" id="proceed-to-next-step">
+	<div class="cart-bottom-help">
+		<div class="content">
+			<h3>	<span class="bold">Besoin d’un petit coup de pouce ?</span>	</h3>	<p>Appelez-nous au 09 70 25 40 90 (coût d’une communication normale suivant l’opérateur), du lundi au vendredi de 9h à 19h, et le samedi de 9h à 18h.</p>	<p>Nous nous ferons un plaisir de vous aider !</p><span class="cart-number">N° de panier :&nbsp;990100029790527</span>
+</div>
+	</div>
+</div><style type="text/css">.paiement-container {    display: flex;    flex-direction: column;    align-items: center;}.paiement-titre {    margin-bottom: 10px;}.paiement-container .paiement {    max-width: 100%;    justify-content: center;}</style><div class="paiement-container"><ul class="paiement-titre">         	<li class="paiement__picto paiement__picto--full"><img src="/wondermedias/sys_master/cmsmedias/hff/h44/paiementsecu.svg" alt="" /> <span class="paiement__label"> Paiement sécurisé</span></li>    </ul>    <ul class="paiement">        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/cb.png" alt="" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/visa.png" alt="" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/mastercard.png" alt="" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/amex.png" alt="" /></li>        <li class="paiement__picto"><img src="/wondermedias/sys_master/cmsmedias/h57/h51/wonderpass-11.png" alt="" style="border: 1px #9d9c9c solid;padding: 8px 0px;border-radius: 3px; max-width: 83px;" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/paypal.png" alt="" style="border: 1px #9d9c9c solid;padding: 10px 5px;border-radius: 3px;" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/leetchi.png" alt="" style="border: 1px #9d9c9c solid;padding: 10px 5px;border-radius: 3px;" /></li>        <li class="paiement__picto"><img src="/_ui/responsive/themes/wonderbox/images/cart/pot_commun.png" alt="" style="border: 1px #9d9c9c solid;padding: 10px 5px;border-radius: 3px;" /></li>    </ul></div></div>
+    </div>
+
+<a href="#" class="back-to-top icomoon icon-arrow-up"></a>
+
+            </div>
+
+            
+
+
+
+
+
+<!-- this attribute may take a list in future -->
+
+
+
+
+
+	<footer>
+
+    <div id="footer" class="checkout-footer-content">
+        <div class="container">     <ul class="checkout-footer">        <li class="satisfaction col-md-4 col-xs-12 icomoon icon-label">           <div class="content">              <p>93% de clients satisfaits</p>              <p>100% de nos partenaires évalués</p>           </div>        </li>        <li class="validity col-md-4 col-xs-12 icomoon icon-round-clock">           <div class="content">              <p>Validité 3 ans et 3 mois à compter de la date d’achat</p>           </div>        </li>        <li class="exchange col-md-4 col-xs-12 icomoon icon-switch">           <div class="content">              <p>Echange et prolongation gratuits et illimités</p>           </div>        </li>     </ul>  </div><section style="background-color:#FFFFFF;"> <p style="color:#000000";><FONT size="1pt" face="wbx-regular-font,sans-serif"> <br /> Conformément à la loi « informatique et libertés », et au Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, les informations recueillies sur ce formulaire sont enregistrées dans un fichier informatisé par Wonderbox SAS et Multipass pour l’envoi de sollicitations commerciales telles que des newsletters ou des actions de fidélisation, de prospection, de sondage, de test produit, de publicité et de promotion, ainsi que des études statistiques et la lutte contre la fraude, dans le respect de l’article 6 paragraphe 1 point a) du Règlement européen 2016/679. L’absence de consentement ne conditionne pas la conclusion du contrat. Vous disposez d’un droit de retirer votre consentement à tout moment. Elles sont destinées à Wonderbox SAS et à l'ensemble des sociétés qu'elle contrôle et aux sous-traitants de Wonderbox. Elles peuvent faire l’objet d’un transfert auprès de sous-traitant situé dans l’UE ou en dehors de celle-ci. Pour les données transférées hors UE, le responsable de traitement a mis en place et met à disposition les garanties appropriées visées à l’article 46. 2) point c) du Règlement, <a style="color: #6d6d6d;" href=https://www.wonderbox.fr/politique-confidentialite.html target="_blank">ici</a>. Les données comportant un astérisque et marquées comme « Champs obligatoires » sont nécessaires à la conclusion du contrat et à la participation au programme de parrainage le cas échéant. Elles sont collectées pour permettre l’exécution de celui-ci, conformément à l’article 6 paragraphe 1 point b) du Règlement européen 2016/679. La non-fourniture de ces données rendra impossible la conclusion du contrat et la participation au programme de parrainage le cas échéant. <br> Les données sont conservées pendant 3 ans, à compter de la fin de la relation commerciale pour les clients-prospects et les clients non prospects, et 3 ans à compter de la collecte ou du dernier contact émanant du prospect pour les prospects non clients, conformément à la norme simplifiée NS-048 de la CNIL. Vous disposez d’un droit d’accès, de rectification, de suppression, de portabilité des données vous concernant et d’opposition ou de limitation à leur traitement. Si vous souhaitez exercer ces droits, vous pouvez écrire à: MULTIPASS – Service Clients -71 rue Desnouettes, 75015 PARIS. Vous bénéficiez également du droit d’introduire une réclamation auprès d’une autorité de contrôle. Les données collectées ne seront pas utilisées pour mettre en place une décision automatisée.</FONT></p></section></div>
+
+</footer>
+
+
+
+
+</main>
+
+
+	<form name="accessiblityForm">
+		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value=""/>
+	</form>
+	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+	<script>
+
+    /*<![CDATA[*/
+    
+    var wonder = {checkout: {}, messages: {}, account: {}, i18n: {}, countryConfig: {}, geoConfig: {}, wishlist: {}};
+
+        wonder.wishlist = {
+          codes: [
+            
+          ]
+        };
+
+
+
+    wonder.messages = {
+      "fieldRequired":          'Champ obligatoire',
+      "pwdRequired":            'Champ obligatoire',
+      "pwdlength":              'Veuillez saisir au moins 8 caractères',
+      "invalidPwd":             'Le mot de passe ne répond pas aux exigences minimales',
+      "pwdConfirm":             'Le mot de passe ne correspond pas',
+      "mailConfirm":           'L\'email ne correspond pas.',
+      "selectOptionRequiredMessage": 'Veuillez sélectionner une option',
+      "mailRequired":           'Champ obligatoire',
+      "mailNotCorrect":         'Cette adresse e-mail n\'est pas valide',
+      "accountChangePwdLink":   'Modifier mon mot de passe',
+      "accountCancelLink":      'Annuler',
+      "accountMoreDetailsLink": 'Afficher les détails',
+      "accountHideLink":        'Masquer',
+      "accountShowLink":        'Afficher',
+      "accountShowDetailsLink": 'Afficher les détails',
+      "accountHideDetailsLink": 'Masquer les détails',
+      "localizationmapNoResult": 'aucune offre disponible',
+      "searchRequired":         'Champ obligatoire',
+      "bazaarvoice": {
+        "vote":                 '{0} personne a trouvé cet avis utile',
+        "votes":                '{0} personnes ont trouvé cet avis utile',
+        "reported":             'Avis signalé !'
+
+      },
+      "validBirthday":          'Veuillez entrer une date de naissance valide (JJ\/MM\/AAAA).',
+      "tooOldMessage":          'La date de naissance ne peut être antérieure à 130 ans.',
+      "tooYoungMessage":        'Si tu as moins de 18 ans, demande à tes parents\u003Csup class=\"cgv\"\u003E2\u003C\/sup\u003E de te créer un compte.',
+      "tooFutureMessage":       'La date date de naissance ne peut être postérieure à la date du jour.',
+      "closemap":               'Masquer la carte',
+      "openmap":                'Voir sur la carte',
+      "popupBackMsg":           'Retour',
+      "defaultErrorMessage":    'Champ obligatoire',
+      "checkboxSmsErrorMessage": 'Merci de saisir vos préférences',
+      "firstNameErrorMessage":  'Champ obligatoire',
+      "lastNameErrorMessage":   'Champ obligatoire',
+      "postCodeErrorMessage":   'Veuillez renseigner un code postal complet',
+      "townCityErrorMessage":   'Champ obligatoire',
+      "line1ErrorMessage":      'Champ obligatoire',
+      "companyErrorMessage":    'Champ obligatoire',
+      "fiscalCodeErrorMessage": 'Champ non valide',
+      "phoneErrorMessage":      'Veuillez saisir un téléphone valide',
+      "housenbErrorMessage":      'address.error.huisnb',
+      "maxLengthCodeErrorMessage":'Veuillez ne pas saisir plus de {0} caractères.',
+      "minLengthCodeErrorMessage":'Veuillez saisir au moins {0} caractères.',
+      "intracomVATErrorMessage": 'Champ obligatoire',
+      "intracomVATNotValidErrorMessage": 'Champ non valide',
+      "fiscalIdErrorMessage":   'Champ obligatoire',
+      "NameMacifErrorMessage":  'Nom de sociétaire MACIF non reconnu',
+      "NumberMacifErrorMessage": 'Numéro de sociétaire MACIF non reconnu',
+      "InvalidUserErrorMessage": 'Cet identifiant est inconnu',
+      "InvalidPasswordErrorMessage": 'Mot de passe invalide',
+      "InvalidDcsCodeMessage":  'Merci de vérifier que la référence saisie comporte 12 chiffres.',
+      "InvalidDcsSecurityCodeMessage": 'Merci de vérifier que la référence saisie comporte 3 chiffres.',
+      "subscriptionError":      'Votre email est invalide',
+      "OptionSelectDefault":    'Sélectionner un thème',
+      "back":                   'Retour',
+      "SHOW_MORE" :             'Voir plus',
+      "SHOW_LESS" :             'Voir moins',
+      "wex"       : {
+        "SOON"       : 'Prochainement',
+        "EXPIRED"    : 'Vente flash terminée',
+        "EXPIRES_IN" : 'Expire dans',
+        "DAY"        : 'jour',
+        "DAYS"       : 'jours'
+      },
+      "bsm" : {
+        "addActivityText"       : 'Ajouter une expérience',
+        "removeActivityText"    : 'Supprimer',
+        "activityBSMTexte1"     : 'Vous avez une box sur mesure en cours de création',
+        "activityBSMTexte2"     : 'Vous avez ajouté cette expérience à votre box sur mesure',
+        "activityBSMTexte3"     : 'Choisissez l\'expérience seule pour créer une box sur mesure à partir de',
+        "activityBSMcta1"       : 'AJOUTER À MA BOX',
+        "activityBSMcta2"       : 'SUPPRIMER DE MA BOX',
+        "activityBSMcta3"       : 'CRÉER UNE BOX SUR MESURE',
+        "experiencesTextSingular" : 'activité',
+        "experiencesTextPlural" : 'activités'
+      },
+      "moreFilters": 'Plus de filtres',
+      "filterApply": 'Appliquer',
+      "filterCancel": 'Effacer',
+      "filterClear": 'Effacer les filtres',
+      "mapPlaceholder": 'ville, code postal, pays...',
+      "btnFacetsMore": '+ de filtres',
+      "btnFacetsLess": '- de filtres',
+      "openValueMin" : 'Le montant minimum est de',
+	  "openValueMax" : 'Le montant maximum est de',
+      "showMore": 'Voir plus',
+      "showLess": 'Voir moins',
+      "radiusLabel": 'Rayon de recherche :',
+      "radiusMin": '2',
+      "radiusMax": '500',
+      "radiusUnit": 'km',
+      "searchAroundMe": 'Autour de moi',
+      "sortBy" : 'Trier :',
+      "filter" : {
+        "mobile" : {
+            "buttonLabel" : 'Filtrer',
+            "emptySearchFacetsTitle" : 'Aucun filtre supplémentaire disponible.',
+            "emptySearchFacetsDescription" : 'Veuillez lancer votre recherche pour voir les résultats.<br/> Pour effectuer une nouvelle recherche, veuillez cliquer sur “Effacer tous les filtres”',
+            "fakeInputPlaceholder": 'ville, code postal, pays...',
+            "fakeButtonTitle": 'Rechercher'
+        },
+        "localisationTitle" : 'Lieu',
+        "participantTitle" : 'Nombre de participants',
+        "accessibilityTitle" : 'Accessibilité', 
+        "slider": {
+            'from':'De',
+            'to':'à'
+        },
+        "backTitleMapRegion" : 'France'
+      },
+
+    };
+
+	wonder.uploadFileConfig = {
+         
+		 "extensions": "PDF,JPEG,JPG,PNG",
+		 "maxCount": "5",
+		 "maxSize": "2097152",
+		 "errorUplaodFileSize" : 'La taille du document ne doit pas dépasser 2.0Mo.',
+	     "errorUplaodFileType" : 'Vous ne pouvez déposer que des documents aux formats: PDF,JPEG,JPG,PNG.'
+    };
+
+    wonder.sharegroopPublicKeys = {
+        
+         "SHAREGROOPSPLIT": "pk_test_6daec11b-0dfa-4eef-a8ba-a8fa74116d60",
+         "SHAREGROOPPAYLATER": "pk_test_9ef15ca1-e0dc-4fea-912b-72612fb3711c",
+         "SHAREGROOPINSTALLMENT3X": "pk_test_0c4718f6-df11-42ff-a8d5-96b854e15764",
+         "SHAREGROOPSINGLE": "pk_test_bb058cec-65e7-4ac2-8557-efb079e47356"
+      };
+
+
+    wonder.geoConfig = {
+
+        "wex": {
+            "activityMap": {
+                "northLat": '50.954468',
+                "northLng": '1.862801',
+                "southLat": '42.69764',
+                "southLng": '2.89541'
+            }
+        }
+        
+        , "europeGeoConfig": {
+            "northLat": "36.0",
+            "northLng": "-12.4",
+            "southLat": "54.2",
+            "southLng": "19.7"
+        }
+        
+        ,
+        "focusOnCurrentSite": false
+    };
+
+    wonder.countryConfig.defaultCountry = "";
+    wonder.countryConfig.postCode = {};
+    wonder.countryConfig.phoneNumber = {};
+    wonder.countryConfig.vatCode = "";
+    wonder.countryConfig.fiscalCodeRegxByCountry = {};
+    wonder.countryConfig.dcsNumber = "[12]";
+    wonder.countryConfig.securityCodePattern = "^[0-9]{3}$";
+    wonder.countryConfig.securityCodeLength = "3";
+
+    wonder.countryConfig.professionalConfig = new Map();
+    wonder.countryConfig.professionalConfig.set("PRIVATE", {
+        company: {
+            label: 'account.professionnel.companyName.PRIVATE',
+            required:false,
+            visible: false
+        },
+        intracomVAT: {
+            label: 'account.professionnel.tva.PRIVATE',
+            required: false,
+            regexp: '{}',
+            visible: false
+        },fiscalCode: {
+            label: 'account.professionnel.siret.PRIVATE',
+            required: false,
+            regexp: '{}',
+            visible: false
+        }
+    });
+    wonder.countryConfig.professionalConfig.set("CORPORATION", {
+        company: {
+            label: 'account.professionnel.companyName.CORPORATION',
+            required:false,
+            visible: false
+        },
+        intracomVAT: {
+            label: 'account.professionnel.tva.CORPORATION',
+            required: false,
+            regexp: '{}',
+            visible: false
+        },fiscalCode: {
+            label: 'account.professionnel.siret.CORPORATION',
+            required: false,
+            regexp: '{}',
+            visible: false
+        }
+    });
+    wonder.countryConfig.professionalConfig.set("INDEPENDENT_PROFESSIONAL", {
+        company: {
+            label: 'account.professionnel.companyName.INDEPENDENT_PROFESSIONAL',
+            required:false,
+            visible: false
+        },
+        intracomVAT: {
+            label: 'account.professionnel.tva.INDEPENDENT_PROFESSIONAL',
+            required: false,
+            regexp: '{}',
+            visible: false
+        },fiscalCode: {
+            label: 'account.professionnel.siret.INDEPENDENT_PROFESSIONAL',
+            required: false,
+            regexp: '{}',
+            visible: false
+        }
+    });
+
+    wonder.geoConfig.geocodingcategoryurl = "/geocoding/category/";
+    wonder.geoConfig.geocodingsearchurl = "/geocoding/search/";
+    wonder.checkout.refreshSummaryUrl = "/cartsummary/refresh?cs=";
+    wonder.checkout.refreshDeliveryMethods = "/cartsummary/delivery-method/refresh";
+    wonder.activitiesNotYetLoaded = false
+    wonder.cmsPageUid = "checkout-number-validation";
+    wonder.cmsSiteUid = "wonderbox-fr";
+    wonder.lang = "fr";
+
+    wonder.countryConfig.primaryColor = '#fe3873';
+    
+    wonder.countryConfig.emailDomains = 'gmail.com,orange.fr,wanadoo.fr,hotmail.fr,yahoo.fr';
+
+    // Box personalization
+    wonder.checkout.personalization = {
+        "client": "",
+        "frameUrl": ""
+    };
+    
+    wonder.checkout.stripeApiPublishableKey = "";
+
+    
+    var ACC = {config: {}, autocompletelabels: new Map()};
+    ACC.config.contextPath = "";
+    ACC.config.encodedContextPath = "";
+    ACC.config.commonResourcePath = "/_ui/responsive/common";
+    ACC.config.themeResourcePath = "/_ui/responsive/themes/wonderbox";
+    ACC.config.siteResourcePath = "/_ui/responsive/site-wonderbox-fr";
+    ACC.config.masterResourcePath = "/_ui/responsive/themes/master"
+    ACC.config.rootPath = "/_ui/responsive";
+    ACC.config.CSRFToken = "e3d7a8bc-6e7b-418a-bf58-cdf53ae60749";
+    ACC.pwdStrengthVeryWeak = 'password.strength.veryweak';
+    ACC.pwdStrengthWeak = 'password.strength.weak';
+    ACC.pwdStrengthMedium = 'password.strength.medium';
+    ACC.pwdStrengthStrong = 'password.strength.strong';
+    ACC.pwdStrengthVeryStrong = 'password.strength.verystrong';
+    ACC.pwdStrengthTooShortPwd = 'password.strength.tooshortpwd';
+    ACC.pwdStrengthMinCharText = 'password.strength.minchartext';
+    ACC.accessibilityLoading = 'aria.pickupinstore.loading';
+    ACC.accessibilityStoresLoaded = 'aria.pickupinstore.storesloaded';
+    ACC.config.maxProductQuantityInCart = "";
+    ACC.config.jawgMapAccessToken = "ws0K0kq2zEPwAyVBaRjHhxXRb2StLpQwZ7ryuJXEH6mi22LtmIOwXYfAjL89w38W";
+    ACC.config.jawgMapTilesUrl = "https://tile.jawg.io/de0beb76-7a0c-4afd-af33-5c93d0963eb5/{z}/{x}/{y}.png?access-token=ws0K0kq2zEPwAyVBaRjHhxXRb2StLpQwZ7ryuJXEH6mi22LtmIOwXYfAjL89w38W";
+    ACC.config.jawgMapRetinaTilesUrl = "https://tile.jawg.io/de0beb76-7a0c-4afd-af33-5c93d0963eb5/{z}/{x}/{y}@2x.png?access-token=ws0K0kq2zEPwAyVBaRjHhxXRb2StLpQwZ7ryuJXEH6mi22LtmIOwXYfAjL89w38W";
+    ACC.config.jawgMapCluster = 18;
+    
+    ACC.config.loginUrl = '/login';
+    
+    ACC.config.authenticationStatusUrl = '/authentication/status';
+
+    
+    ACC.autocompleteUrl = '/search/autocompleteSecure';
+
+    ACC.autocompletelabels.set('partenairesResult', '<span class="icomoon icon-acp-partner">Partenaires</span>');
+    ACC.autocompletelabels.set('ideesCadeauxResult', 'Idées cadeaux');
+    ACC.autocompletelabels.set('wonderboxResult', '<span class="icomoon icon-acp-box">Box cadeaux</span>');
+    ACC.autocompletelabels.set('themesResult', '<span class="icomoon icon-acp-activite">Thèmes</span>');
+    ACC.autocompletelabels.set('lieuxResult', '<span class="icomoon icon-acp-lieu">Lieux</span>');
+    ACC.autocompletelabels.set('aroundMe', 'Autour de moi');
+    ACC.autocompletelabels.set('aroundMeError', 'Vous avez refusé la géolocalisation\tVeuillez activer le partage de votre localisation dans les paramètres de votre navigateur. Il peut être nécessaire de rafraîchir la page après son activation');
+    ACC.autocompletelabels.set('locationParametersPattern', "");
+
+    ACC.sparkowFacetBudgetBetween = "NW-710-budget~de-{0}-a-{1}~euros";
+
+    ACC.cardSitesUxReg = 'cardSites.postalCode.format.ux.reg';
+    ACC.nlSitesHuisNbUxReg = 'nlsites.huisnummer.format.ux.reg';
+
+    ACC.date = {
+      firstDayOfWeek: 1,
+      weekdays: {
+          shorthand: [
+              "Dim",
+              "Lun",
+              "Mar",
+              "Mer",
+              "Jeu",
+              "Ven",
+              "Sam"
+          ],
+          longhand: [
+              "Dimanche",
+              "Lundi",
+              "Mardi",
+              "Mercredi",
+              "Jeudi",
+              "Vendredi",
+              "Samedi"
+          ]
+      },
+      months: {
+          shorthand: [
+              "Janv",
+              "Févr",
+              "Mars",
+              "Avr",
+              "Mai",
+              "Juin",
+              "Juil",
+              "Août",
+              "Sept",
+              "Oct",
+              "Nov",
+              "Déc",
+          ],
+          longhand: [
+              "Janvier",
+              "Février",
+              "Mars",
+              "Avril",
+              "Mai",
+              "Juin",
+              "Juillet",
+              "Août",
+              "Septembre",
+              "Octobre",
+              "Novembre",
+              "Décembre",
+          ]
+      }
+    }
+
+    
+    /*]]>*/
+</script>
+<script type="text/javascript">
+	/*<![CDATA[*/
+	ACC.addons = {};	//JS holder for addons properties
+			
+	
+		ACC.addons.smarteditaddon = [];
+		
+		ACC.addons.ceacceleratoraddon = [];
+		
+		ACC.addons.paymentaddon = [];
+		
+		ACC.addons.assistedserviceaddon = [];
+		
+				ACC.addons.assistedserviceaddon['asm.timer.min'] = 'min';
+			
+	/*]]>*/
+</script>
+<script src="/_ui/shared/js/generatedVariables.js?v=7.4.0"></script>
+<script src="/_ui/responsive/themes/master/js/lib/jquery-3.4.1.min.js"></script>
+
+<script src="/_ui/responsive/themes/master/js/lib/swiper.min.js"></script>
+
+<script type="text/javascript" src="/_ui/responsive/themes/master/js/lib/lazysizes.min.js"></script>
+
+
+<script type="text/javascript" src="https://apps.bazaarvoice.com/deployments/wonderbox/token_review_form/production/fr_FR/bv.js"></script>
+
+<script type="text/javascript" async defer>
+	  // Configuration du tracker SPREAD
+	  var spconfig = {
+		public_key: "33313037b532b0e2b76697397c8ccfeb5b5ed29ade8d69bedf93e54f0200",
+		debug: false,
+		set_cookie: true,
+		track_order_enabled: true
+	  };
+
+	  // Méthode de chargement du tracker
+	  function loadSpreadTracker(){window.domLoadEventFired=!0;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.charset="UTF-8",a.id="spread-tracker",a.src="//static-sb.com/js/sb-tracker.js",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",loadSpreadTracker,!1):window.attachEvent?window.attachEvent("onload",loadSpreadTracker):window.onload=loadSpreadTracker;
+   </script>
+<!--[if lte IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+<![endif]-->
+<!--[if IE]>
+<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://cdn.jsdelivr.net/gh/nuxodin/ie11CustomProperties@4.1.0/ie11CustomProperties.min.js"><\/script>');</script>
+<![endif]-->
+
+<!-- RGPD -->
+<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+	else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+	var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+	if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+	var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("31e0c5bf-2cdb-41b4-abd9-b41218e5d5e4")})();
+</script>
+<script src="/_ui/responsive/themes/master/js/wbox.min.js?v=7.4.0"></script>
+		<script src="/_ui/responsive/themes/master/js/recaptcha.min.js?v=7.4.0"></script>
+        <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+</body>
+
+</html>
+:
+
